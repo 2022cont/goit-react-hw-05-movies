@@ -1,0 +1,30 @@
+.buttonBack {
+    margin-bottom: 10px;
+    border: none;
+    background-color: #b1aeae;
+    color: #fff;
+    font-weight: 900;
+    letter-spacing: 1px;
+    transition: all 150ms linear;
+}
+
+.buttonBack:hover {
+    background-color: #413f3f;
+    color: lighten(#fff, 18%);
+    text-decoration: none;
+    transition: all 250ms linear;
+}
+
+.titleName {
+    font-size: 18px;
+    color: grey;
+    font-family: 'Oxygen';
+}
+
+.additionalLink {
+    list-style: none;
+    margin-right: 20px;
+    text-decoration: none;
+    font-weight: 500;
+    font-family: 'Oxygen';
+}

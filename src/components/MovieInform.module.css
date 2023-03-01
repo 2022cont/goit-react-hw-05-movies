@@ -1,0 +1,32 @@
+.movieInform {
+    display: flex;
+}
+
+.titleName {
+    font-size: 18px;
+    color: grey;
+    font-family: 'Oxygen';
+}
+
+.discription {
+    font-size: 16px;
+    font-family: 'Oxygen';
+}
+
+.movieDiscription {
+    margin-left: 20px;
+    width: 600px;
+}
+
+.genresList {
+    list-style: none;
+    padding: 0px;
+    margin-bottom: 40px;
+
+    display: flex;
+    font-family: 'Oxygen';
+}
+
+.itemGenresList {
+    margin-right: 10px;
+}

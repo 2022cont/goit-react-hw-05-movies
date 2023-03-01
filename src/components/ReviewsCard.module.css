@@ -1,0 +1,25 @@
+.reviewsList {
+    list-style: none;
+    padding: 0px;
+    margin-bottom: 10px;
+    font-family: 'Oxygen';
+    font-style: italic;
+}
+
+.reviewItem {
+    text-transform: capitalize;
+    font-size: 1.15rem;
+    font-weight: 700;
+}
+
+.reviewDescription {
+    font-size: 16px;
+    font-weight: 500;
+    max-width: 55rem;
+}
+
+.titleName {
+    font-size: 18px;
+    color: grey;
+    font-family: 'Oxygen';
+}
